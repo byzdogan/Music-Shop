@@ -6,7 +6,7 @@ This is an assignment named "Müzik Dükkanım" as part of the CSS course at [Pa
 - Each page have links of other pages so user can easily switch between them.
 
 ## Interface 
-![Ana Sayfa Görüntüsü](images/anaSayfa.PNG)
+![Ana Sayfa Görüntüsü](C:\VSCodeProjects\Music-Shop\images/anaSayfa.PNG)
 ![Ürünlermiz Görüntüsü](images/products.PNG)
 ![Hakkımızda Görüntüsü](images/hakkimizda.PNG)
 

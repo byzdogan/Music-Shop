@@ -6,9 +6,9 @@
 !.vscode/extensions.json
 
 # images
-*.jpg
-*.png
-images/
+#*.jpg
+#*.png
+#images/
 
 #videos
 *.mp4

@@ -1,13 +1,13 @@
 body{
     font-family: 'Montserrat', sans-serif; 
-    text-align: center;
-    list-style-position: inside;
     background-color: rgb(252, 242, 224);
+    text-align: center;
 }
-
 
 h1{
     color:rgb(226, 106, 44);
+    font-weight: bolder;
+  
 }
 
 h2{
@@ -18,10 +18,53 @@ h3{
     color:rgb(253, 166, 93);
 }
 
-img{
-    width: 220px;
+ul {
+    list-style-type: none;
+}
+
+#products-link {
+    text-decoration: none;
+    color:rgb(226, 106, 44);
+    font-weight: bold;
+    margin: 1px;
+
+}
+
+#products-link:hover {
+    color: rgb(0, 0, 255);
 }
 
 a{
-    padding: 1cm;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+#about-us {
+    background-color: rgba(0, 0, 255, 0.726);
+    text-decoration: none;
+    width: 120px;
+}
+
+#about-us:hover {
+    background-color: rgb(0, 0, 255);
+}
+
+.card{
+    padding: 5px;
+    height: auto;
+}
+
+.col .card:hover{
+    border-color: rgb(0, 0, 255);;
+}
+
+.col .card p {
+    background-color: rgba(255, 130, 67, 0.74);
+    border-radius: 5%;
+    color: white;
+}
+
+img{
+    height: 300px;
 }
